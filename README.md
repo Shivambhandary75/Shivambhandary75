@@ -1,7 +1,7 @@
 ## Hi there, I'm Shivam 
 ---
 
-#### 🛠️ My Tech Stack & Tools 
+###🛠️ My Tech Stack & Tools 
 ---
 
 #### Languages & Frameworks
@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
 </p>
 
----
+
 
 #### Tools & IDEs
 <p>
@@ -35,4 +35,4 @@ Here’s my recent progress on LeetCode, tracking my problem-solving journey:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ShivamS75?ext=heatmap)
 
----
+
