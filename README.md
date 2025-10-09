@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/ShivamS75?ext=heatmap)
 <!--
 **Shivambhandary75/Shivambhandary75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
