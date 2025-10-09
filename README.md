@@ -2,7 +2,6 @@
 ---
 
 ###🛠️ My Tech Stack & Tools 
----
 
 #### Languages & Frameworks
 <p>
