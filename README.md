@@ -1,6 +1,8 @@
 ## Hi there, I'm Shivam 
 ---
+
 #### 🛠️ My Tech Stack & Tools 
+---
 
 #### Languages & Frameworks
 <p>
@@ -13,6 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
 </p>
+---
 
 #### Tools & IDEs
 <p>
@@ -24,22 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
 </p>
 ---
+
 ### 💻 My LeetCode Stats
 Here’s my recent progress on LeetCode, tracking my problem-solving journey:
 
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ShivamS75?ext=heatmap)
-<!--
-**Shivambhandary75/Shivambhandary75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
