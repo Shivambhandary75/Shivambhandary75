@@ -1,5 +1,5 @@
 ## Hi there, I'm Shivam 
-### 🛠️ Tech Stack & Tools
+### 🛠️ My Tech Stack & Tools 
 
 #### Languages & Frameworks
 <p>
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
 </p>
 
-### 💻 LeetCode Stats
+### 💻 My LeetCode Stats
 Here’s my recent progress on LeetCode, tracking my problem-solving journey:
 
 
