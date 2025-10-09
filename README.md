@@ -15,6 +15,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
 </p>
+
 ---
 
 #### Tools & IDEs
@@ -26,10 +27,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/>
 </p>
+
 ---
 
 ### 💻 My LeetCode Stats
 Here’s my recent progress on LeetCode, tracking my problem-solving journey:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ShivamS75?ext=heatmap)
+
 ---
