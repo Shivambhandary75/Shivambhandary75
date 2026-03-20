@@ -3,7 +3,7 @@ Welcome to my GitHub profile!!!
 
 ---
 
-### 🛠️ My Tech Stack & Tools 
+###  My Tech Stack & Tools 
 
 #### Languages & Frameworks
 <p>
@@ -35,7 +35,7 @@ Welcome to my GitHub profile!!!
 
 ---
 
-### 💻 My LeetCode Stats
+###  My LeetCode Stats
 Here’s my recent progress on LeetCode, tracking my problem-solving journey:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ShivamS75?ext=heatmap)
